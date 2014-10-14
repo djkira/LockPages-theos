@@ -14,11 +14,11 @@
 ## Getting Started
 ##### Required Files
 
-| `liblockpages.dylib` | `LPPageController.h`                     |
-| :------------------- | :--------------------------------------- |
-|  `/opt/theos/lib/`   | `/opt/theos/include/liblockpages/`       |
-|  **`NOTE:`**         | `liblockpages` folder must be created.   |
-|  *`Download:`*       | [liblockpagesEssential.zip]              |
+| **`liblockpages.dylib`** | **`LPPageController.h`**               |
+| :----------------------- | :------------------------------------- |
+|  `/opt/theos/lib/`       | `/opt/theos/include/liblockpages/`     |
+|  **`NOTE:`**             | `liblockpages` folder must be created. |
+|  *`Download:`*           | [liblockpagesEssential.zip]            |
 
 > ###### Files in *`liblockpagesEssential.zip`* must be placed in their respective folders.
 
