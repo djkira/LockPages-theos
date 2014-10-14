@@ -1,9 +1,9 @@
 Package: com.pigigaldi.lptheos
 Name: LPTheos
-Depends: mobilesubstrate
+Depends: mobilesubstrate com.dba-tech.lockpages
 Version: 0.0.1
 Architecture: iphoneos-arm
-Description: An awesome Cydia Substrate tweak!
+Description: LockPages add-on!
 Maintainer: Pigi Galdi
 Author: Pigi Galdi
 Section: Tweaks
