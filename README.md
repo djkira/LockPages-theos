@@ -153,8 +153,8 @@ After creating *`LPView`* and *`LPViewController`* we can now edit our
 		@autoreleasepool {
 			LPViewController *_mainPage = [[LPViewController alloc] init];
 			[[LPPageController sharedInstance] addPage:_mainPage];
+		}
 	}
-}
 
 ```
 
