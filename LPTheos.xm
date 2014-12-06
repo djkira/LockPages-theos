@@ -8,6 +8,12 @@
 // 	Imports.
 #import "Imports.h"
 
+%hook SBLockScreenViewController
+- (BOOL)isBounceEnabledForPresentingController:(id)fp8 locationInWindow:(struct CGPoint)fp12 {
+    return NO;
+}
+%end
+
 %ctor {
 	@autoreleasepool {
 		// Create page.
