@@ -1,6 +1,6 @@
 Package: com.pigigaldi.lptheos
 Name: LPTheos
-Depends: mobilesubstrate com.dba-tech.lockpages
+Depends: mobilesubstrate, com.dba-tech.lockpages
 Version: 0.0.1
 Architecture: iphoneos-arm
 Description: LockPages add-on!
